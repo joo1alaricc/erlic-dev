@@ -1,0 +1,134 @@
+[
+  {
+    "jid": "6283878301449@s.whatsapp.net",
+    "server": {
+      "id": 87,
+      "username": "nathananjay",
+      "password": "masth****",
+      "ram": "0",
+      "cpu": "0",
+      "disk": "0",
+      "expire": "2025-07-01"
+    }
+  },
+  {
+    "jid": "6283125470020@s.whatsapp.net",
+    "server": {
+      "id": 91,
+      "username": "denmuharomm2",
+      "password": "masth****",
+      "ram": "0",
+      "cpu": "0",
+      "disk": "0",
+      "expire": "2025-07-01"
+    }
+  },
+  {
+    "jid": "6285194715198@s.whatsapp.net",
+    "server": {
+      "id": 56,
+      "username": "kanz",
+      "password": "masth****",
+      "ram": "0",
+      "cpu": "0",
+      "disk": "0",
+      "expire": "2025-07-10"
+    }
+  },
+  {
+    "jid": "6285737139435@s.whatsapp.net",
+    "server": {
+      "id": 87,
+      "username": "monika",
+      "password": "masth****",
+      "ram": "0",
+      "cpu": "0",
+      "disk": "0",
+      "expire": "2025-07-11"
+    }
+  },
+  {
+    "jid": "6283844134920@s.whatsapp.net",
+    "server": {
+      "id": 91,
+      "username": "nanayriceteam",
+      "password": "masth****",
+      "ram": "0",
+      "cpu": "0",
+      "disk": "0",
+      "expire": "2025-07-11"
+    }
+  },
+  {
+    "jid": "6283844134920@s.whatsapp.net",
+    "server": {
+      "id": 112,
+      "username": "afifahriceteam",
+      "password": "masth****",
+      "ram": "0",
+      "cpu": "0",
+      "disk": "0",
+      "expire": "2025-07-12"
+    }
+  },
+  {
+    "jid": "6283844134920@s.whatsapp.net",
+    "server": {
+      "id": 122,
+      "username": "titariceteam",
+      "password": "masth****",
+      "ram": "0",
+      "cpu": "0",
+      "disk": "0",
+      "expire": "2025-07-13"
+    }
+  },
+  {
+    "jid": "6285737139435@s.whatsapp.net",
+    "server": {
+      "id": 125,
+      "username": "mons",
+      "password": "masth****",
+      "ram": "0",
+      "cpu": "0",
+      "disk": "0",
+      "expire": "2025-07-13"
+    }
+  },
+  {
+    "jid": "6282338761512@s.whatsapp.net",
+    "server": {
+      "id": 126,
+      "username": "chzzz",
+      "password": "masth****",
+      "ram": "0",
+      "cpu": "0",
+      "disk": "0",
+      "expire": "2025-07-13"
+    }
+  },
+  {
+    "jid": "6283133344021@s.whatsapp.net",
+    "server": {
+      "id": 128,
+      "username": "botems",
+      "password": "masth****",
+      "ram": "0",
+      "cpu": "0",
+      "disk": "0",
+      "expire": "2025-07-14"
+    }
+  },
+  {
+    "jid": "6283133344021@s.whatsapp.net",
+    "server": {
+      "id": 198,
+      "username": "jelek",
+      "password": "masth****",
+      "ram": "0",
+      "cpu": "0",
+      "disk": "0",
+      "expire": "2025-07-16"
+    }
+  }
+]
